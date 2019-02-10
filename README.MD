@@ -1,4 +1,4 @@
-# lab1
+# lab_1
 Python application for creating HTML map using folium and geopy.
 ## Information
 The application was made to create HTML maps, using different data (locations.list, world.json). User should enter the year in which he or she is interested in. Then the program will create HTML file which the user should open in web browser.
